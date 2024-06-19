@@ -24,5 +24,5 @@ The output will show the average turnaround time for the processes along with a 
 # Links
 Below you can find my Twitter and LinkedIn Pages. Feel free to connect 😊. Thank you for reading through this Project.
 
-    LinkedIn - https://www.linkedin.com/in/imankalyanchakraborty/
-    Twitter - https://twitter.com/ikc1975
+* LinkedIn - https://www.linkedin.com/in/imankalyanchakraborty/
+* Twitter - https://twitter.com/ikc1975
